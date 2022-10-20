@@ -1,0 +1,1 @@
+const txtop1 = document.getElementById("operador 1")
